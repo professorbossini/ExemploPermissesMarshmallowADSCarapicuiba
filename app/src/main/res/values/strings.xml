@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exemplo Permissões Marshmallow ADS Carapicuiba</string>
+    <string name="explicacao_gps">É preciso habilitar o GPS para ver onde você está</string>
+</resources>
